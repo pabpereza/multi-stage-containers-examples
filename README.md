@@ -52,4 +52,4 @@ If you want to contribute to this repository, please follow these steps:
 2. Add your example in a new folder or update an existing example (always grouped by language or technology). This example must to contain a curated dockerfile and an old version called "dockerfile.old" to exemplify the less optimized version.
 4. Create a pull request with your changes
 
-
+https://docs.docker.com/develop/develop-images/multistage-build/$ gpg -d sha256sums.asc | grep git-lfs-linux-amd64-v2.10.0.tar.gz | shasum -a 256 -c
